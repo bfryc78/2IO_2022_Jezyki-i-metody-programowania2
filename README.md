@@ -1,1 +1,1 @@
-# 2IO_2022_J-yki-i-metody-programowania2
+# 2IO_2022_Języki-i-metody-programowania2

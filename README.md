@@ -2,5 +2,5 @@
 
 Wykład 1 z dnia 11.02.2022
  - stuktury danych LinkedList, ArrayList, TreeSet, HashSet, TreeMap, HashMap
- - obsługa wyjątków, własne wyjątki
+ - obsługa wyjątków, własne klasy wyjątków
  - zadanie: konwersja liczb rzymskich na arabskie
